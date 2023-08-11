@@ -28,4 +28,6 @@ class Student(person):
 student = Student("Abir",25,"Male", "111",3.5)
 student.display()
 #print(person.name)
-print(person._person__pwd)#object calling# _ before class, and first person is variable
+#print(person._person__pwd)#object calling# _ before class, and first person is variable
+
+print ("m")
