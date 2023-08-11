@@ -1,4 +1,4 @@
-print("name")
+print("n")
 class person:
 
     def __init__(self,name,age,gender):
